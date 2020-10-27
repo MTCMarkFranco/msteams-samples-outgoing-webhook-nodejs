@@ -1,0 +1,22 @@
+{
+    "name": "outgoing-webhook-sample",
+    "version": "1.0.0",
+    "description": "Bot Builder v4 OutGoing Webhook Sample",
+    "author": "Microsoft",
+    "license": "MIT",
+    "main": "app.js",
+    "scripts": {
+        "start": "node ./app.js",
+        "watch": "nodemon ./app.js"
+    },
+    "repository": {},
+    "dependencies": {
+        "botbuilder": "~4.10.3",
+        "botbuilder-dialogs": "~4.10.3",
+        "restify": "~8.5.1"
+    },
+    "devDependencies": {
+        "dotenv": "^8.2.0",
+        "nodemon": "~2.0.4"
+    }
+}
