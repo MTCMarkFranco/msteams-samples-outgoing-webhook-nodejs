@@ -20,7 +20,7 @@ This project is an implementation of a very simple [Outgoing Webhook](https://do
 
 * Clone this repo:
   ```bash
-  git clone https://github.com/OfficeDev/msteams-samples-outgoing-webhook-nodejs.git
+  git clone https://github.com/MTCMarkFranco/msteams-samples-outgoing-webhook-nodejs.git
   ```
 
 * Install Node: https://nodejs.org/en/download/    
